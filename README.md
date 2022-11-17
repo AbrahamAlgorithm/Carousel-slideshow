@@ -8,4 +8,4 @@
 
 ## Demo
 
-```https://AbrahamAlgorithm.github.io/Carousel-slideshow/```
+```https://abrahamalgorithm.github.io/Carousel-slideshow/```
